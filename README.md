@@ -1,9 +1,9 @@
-### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋
-<br/>
+### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋;
+<br />
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue)&nbsp;
 [![GitHub ritikjaiswal019](https://img.shields.io/github/followers/ritikjaiswal019?label=follow&style=social)](https://github.com/ritikjaiswal019)&nbsp;
-<br/>
+<br />
 (Use dark theme to find my socials)
 <br/>
 <a href="https://www.linkedin.com/in/jaiswal-ritik/" target="_blank"><img align="left" alt="Ritik Jaiswal| LinkedIn" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/linkedin.svg" /></a>
