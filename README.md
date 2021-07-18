@@ -1,6 +1,6 @@
 ### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋
 <br/>
-![](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue)
+![](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue);
 <br/>
 (Use dark theme to find my socials)
 <br/>
