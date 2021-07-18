@@ -1,8 +1,5 @@
 ### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋;
 <br />
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue)&nbsp;
-[![GitHub ritikjaiswal019](https://img.shields.io/github/followers/ritikjaiswal019?label=follow&style=social)](https://github.com/ritikjaiswal019)&nbsp;
 <br />
 (Use dark theme to find my socials)
 <br/>
@@ -10,6 +7,12 @@
 <a href="https://www.instagram.com/ritikjaiswal_19/" target="_blank"><img align="left" alt="Ritik Jaiswal| Instagram" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/insta.svg" /></a>
 <a href="https://twitter.com/" target="_blank"><img align="left" alt="Ritik Jaiswal| Twitter" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/twitter.svg" /></a>
 <a href="https://www.facebook.com/people/Ritik-Jaiswal/100009573994016/" target="_blank"><img align="left" alt="Ritik Jaiswal| Facebook" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/facebook.png" /></a>
+
+<br/>
+<br/>
+![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue)&nbsp;
+[![GitHub ritikjaiswal019](https://img.shields.io/github/followers/ritikjaiswal019?label=follow&style=social)](https://github.com/ritikjaiswal019)&nbsp;
 <br/>
 <br/>
 
