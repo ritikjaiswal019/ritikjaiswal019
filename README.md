@@ -1,4 +1,8 @@
 ### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There,+I+am+Ritik+Jaiswal;Welcome+to+my+Github!&center=true&size=27">
+  </a>
+
 <br />
 (Use dark theme to find my socials)
 <br/>
