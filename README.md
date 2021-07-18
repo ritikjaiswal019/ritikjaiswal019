@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ✉️  You can email me at ritikjaiswal019@gmail.com. I'll try to respond as soon as possible!
 - ✍️ &nbsp;In my free time, I listen music, solve problems and play online games.
 - 🔭 I’m currently working on [CodeTogether](https://github.com/ritikjaiswal019/CodeTogether)
-- 💻 I’m love problem solving and practive on various competitive platform like CodeChef & CodeForces
+- 💻 I’m love problem solving and practice on various competitive platform like CodeChef & CodeForces
 
 
 <h6>(Use dark theme to find my socials)</h6>
