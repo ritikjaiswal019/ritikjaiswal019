@@ -22,7 +22,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/ritikjaiswal019/icons/blob/main/c%2B%2B.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/ritikjaiswal019/icons/blob/main/github.svg" />
-<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/ritikjaiswal019/icons/blob/main/django2.png"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="C++" width="44px" src="https://github.com/ritikjaiswal019/icons/blob/main/django2.png"/> </a>
 <br />
 <br />
 
