@@ -7,7 +7,7 @@
 <a href="https://twitter.com/" target="_blank"><img align="left" alt="Ritik Jaiswal| Twitter" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/twitter.svg" /></a>
 <a href="https://www.facebook.com/people/Ritik-Jaiswal/100009573994016/" target="_blank"><img align="left" alt="Ritik Jaiswal| Facebook" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/facebook.png" /></a>
 <br/>
-<>
+<br/>
 ### Languages and Tools:
 <br />
 <br>
