@@ -1,22 +1,13 @@
 ### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋;
 <br />
-<br />
 (Use dark theme to find my socials)
 <br/>
 <a href="https://www.linkedin.com/in/jaiswal-ritik/" target="_blank"><img align="left" alt="Ritik Jaiswal| LinkedIn" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/linkedin.svg" /></a>
 <a href="https://www.instagram.com/ritikjaiswal_19/" target="_blank"><img align="left" alt="Ritik Jaiswal| Instagram" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/insta.svg" /></a>
 <a href="https://twitter.com/" target="_blank"><img align="left" alt="Ritik Jaiswal| Twitter" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/twitter.svg" /></a>
 <a href="https://www.facebook.com/people/Ritik-Jaiswal/100009573994016/" target="_blank"><img align="left" alt="Ritik Jaiswal| Facebook" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/facebook.png" /></a>
-
 <br/>
-<br/>
-
-<br/>
-<br/>
-
 ### Languages and Tools:
-
-
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 
@@ -36,7 +27,6 @@
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue)&nbsp;
 [![GitHub ritikjaiswal019](https://img.shields.io/github/followers/ritikjaiswal019?label=follow&style=social)](https://github.com/ritikjaiswal019)&nbsp;
-<br />
 <br />
 
 <!--
