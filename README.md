@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/jaiswal-ritik/" target="_blank"><img align="left" alt="Ritik Jaiswal| LinkedIn" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/linkedin.svg" /></a>
 <a href="https://www.instagram.com/ritikjaiswal_19/" target="_blank"><img align="left" alt="Ritik Jaiswal| Instagram" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/insta.svg" /></a>
 <a href="https://twitter.com/" target="_blank"><img align="left" alt="Ritik Jaiswal| Twitter" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/twitter.svg" /></a>
-<a href="https://www.facebook.com/people/Ritik-Jaiswal/100009573994016/" target="_blank"><img align="left" alt="Ritik Jaiswal| Facebook" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/facebook3.png" /></a>
+<a href="https://www.facebook.com/people/Ritik-Jaiswal/100009573994016/" target="_blank"><img align="left" alt="Ritik Jaiswal| Facebook" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/facebook4.png" /></a>
 
 
 
