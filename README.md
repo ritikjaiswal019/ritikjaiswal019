@@ -10,9 +10,7 @@
 
 <br/>
 <br/>
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue)&nbsp;
-[![GitHub ritikjaiswal019](https://img.shields.io/github/followers/ritikjaiswal019?label=follow&style=social)](https://github.com/ritikjaiswal019)&nbsp;
+
 <br/>
 <br/>
 
@@ -35,7 +33,9 @@
 
 [![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritikjaiswal019&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=blue)&nbsp;
+[![GitHub ritikjaiswal019](https://img.shields.io/github/followers/ritikjaiswal019?label=follow&style=social)](https://github.com/ritikjaiswal019)&nbsp;
 <br />
 <br />
 
