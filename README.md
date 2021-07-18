@@ -1,5 +1,6 @@
 ### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋
-(Use dark theme to find my socials)
+(Use dark theme to find my socials;)
+
 <a href="https://www.linkedin.com/in/jaiswal-ritik/" target="_blank"><img align="left" alt="Ritik Jaiswal| LinkedIn" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/linkedin.svg" /></a>
 
 
