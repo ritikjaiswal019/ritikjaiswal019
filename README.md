@@ -1,7 +1,7 @@
 ### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋
 <br/>
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ritikjaiswal019&color=red)&nbsp;
+![](https://komarev.com/ghpvc/?username=ritikjaiswal&color=blue)&nbsp;
 [![GitHub Ritik Jaiswal](https://img.shields.io/github/followers/ritikjaiswal019?label=follow&style=social)](https://github.com/ritikjaiswal019)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <br/>
