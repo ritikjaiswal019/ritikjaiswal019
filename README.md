@@ -1,20 +1,28 @@
-### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋;
+<!-- ### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋; -->
+<h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There,+I+am+Ritik+Jaiswal;Welcome+to+my+Github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!,+I+am+Ritik+Jaiswal.;Welcome+to+my+Github!&center=true&size=27">
   </a>
+</h2>
 
-<br />
-(Use dark theme to find my socials)
-<br/>
+### 👨🏻‍💻 &nbsp;About Me
+
+Here are some ideas to get you started:
+- 🎓  I'm currently persuing B.Tech. at Medi-Caps University, Indore (2019-2023).
+- ✉️  You can email me at ritikjaiswal019@gmail.com. I'll try to respond as soon as possible!
+- ✍️ &nbsp;In my free time, I listen music, solve problems and play online games.
+- 🔭 I’m currently working on [CodeTogether](https://github.com/ritikjaiswal019/CodeTogether)
+- 💻 I’m love problem solving and practive on various competitive platform like CodeChef & CodeForces
+
+
+<h6>(Use dark theme to find my socials)</h6>
 <a href="https://www.linkedin.com/in/jaiswal-ritik/" target="_blank"><img align="left" alt="Ritik Jaiswal| LinkedIn" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/linkedin.svg" /></a>
 <a href="https://www.instagram.com/ritikjaiswal_19/" target="_blank"><img align="left" alt="Ritik Jaiswal| Instagram" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/insta.svg" /></a>
 <a href="https://twitter.com/" target="_blank"><img align="left" alt="Ritik Jaiswal| Twitter" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/twitter.svg" /></a>
-<a href="https://www.facebook.com/people/Ritik-Jaiswal/100009573994016/" target="_blank"><img align="left" alt="Ritik Jaiswal| Facebook" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/facebook.png" /></a>;
+<a href="https://www.facebook.com/people/Ritik-Jaiswal/100009573994016/" target="_blank"><img align="left" alt="Ritik Jaiswal| Facebook" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/facebook.png" /></a>
+<br> 
 <br>
-<br>
-### **Languages and Tools**:
-<br />
-<br>
+<h3>Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/ritikjaiswal019/icons/blob/main/js.png" /></a>
@@ -36,16 +44,4 @@
 
 <!--
 **ritikjaiswal019/ritikjaiswal019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<img src="https://github-profile-trophy.vercel.app/?username=ritikjaiswal019&theme=juicyfresh&no-bg=true" />
