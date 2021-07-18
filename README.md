@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am <a href="https://ritikjaiswal019.github.io/" target="_blank" >Ritik Jaiswal</a>!👋
+(Use dark theme to find my socials)
+<a href="https://www.linkedin.com/in/jaiswal-ritik/" target="_blank"><img align="left" alt="Ritik Jaiswal| LinkedIn" width="22px" src="https://github.com/ritikjaiswal019/icons/blob/main/c++.png" /></a>
+
+
 
 <!--
 **ritikjaiswal019/ritikjaiswal019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-profile-trophy.vercel.app/?username=ritikjaiswal019&theme=juicyfresh&no-bg=true" />
