@@ -53,7 +53,7 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ritikjaiswal019&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=ritikjaiswal019&theme=react&background=0d1117&border=666">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
