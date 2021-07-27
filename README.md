@@ -23,7 +23,7 @@
 <li> ✉️  You can email me at ritikjaiswal019@gmail.com. I'll try to respond as soon as possible!</li>
 <li> ✍️ &nbsp;In my free time, I listen music, solve problems and play online games.</li>
   <li> 🔭 I’m currently working on <a href="https://github.com/ritikjaiswal019/CodeTogether">Code Together</a></li>
-<li> 💻 I’m love problem solving and practice on various competitive platform like CodeChef & CodeForces</li>
+<li> 💻 I love problem solving and I practice CP on various platforms like CodeChef & CodeForces</li>
 </ul>
 </p>
 
